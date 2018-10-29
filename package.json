@@ -1,7 +1,7 @@
 {
-  "name": "appmetrics-dash",
+  "name": "@achingbrain/appmetrics-dash",
   "version": "4.0.1",
-  "description": "Embedded monitoring dashboard for Node.js applications.",
+  "description": "Embedded monitoring dashboard for Node.js applications - published to work around npm/npm#20795 until RuntimeTools/appmetrics-dash#165 is released",
   "main": "index.js",
   "dependencies": {
     "appmetrics": "^4.0.0",
